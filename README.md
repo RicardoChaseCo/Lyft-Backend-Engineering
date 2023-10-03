@@ -1,8 +1,6 @@
-# Lyft Back-End Engineering VEP
+# Lyft Back-End Engineering
 
-> This repository contains the code for the Lyft Back-End Engineering VEP
-
-### Concepts Covered
+# Concepts Covered
 
 - UML Diagrams
 - Software Design Patterns
@@ -11,7 +9,3 @@
 - Python OOPS
 - Unit Testing
 - Test-Driven Development (TDD)
-
-### UML Diagram
-
-![UML Diagram](./assets/UML.png)
