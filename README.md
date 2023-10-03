@@ -1,7 +1,5 @@
 # Lyft Back-End Engineering
 
-# Concepts Covered
-
 - UML Diagrams
 - Software Design Patterns
 - Python Scripting
